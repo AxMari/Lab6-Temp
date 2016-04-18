@@ -9,7 +9,7 @@ function tempConvert(k,t) {
 		newTemp = (t - 32) * (5/9);
 		console.log(newTemp + "°C");
 	}
-    else {
+	else {
         console.log("Err: Please enter either °C or °F");
     }
 
