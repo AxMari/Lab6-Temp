@@ -11,8 +11,7 @@ function tempConvert(k,t) {
 	}
 	else {
         console.log("Err: Please enter either °C or °F");
-    }
-
+	}
 }
 
 tempConvert("C",0);
